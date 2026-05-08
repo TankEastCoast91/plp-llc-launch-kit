@@ -1,2 +1,1 @@
-# plp-llc-launch-kit
-Full OpenClaw Multi-Agent Governed Pipeline for PLP LLC - Auto clone, build, code, GitHub + Gumroad
+# PLP LLC Launch Kit\n\nFull Governed Multi-Agent OpenClaw Pipeline for PLP LLC\n\n**Features:**\n- Auto OpenClaw clone & build\n- Claude + GPT-4o + Gemini governance\n- Auto GitHub push\n- Auto Gumroad creation\n\nRun with: `python run_openclaw_full_pipeline.py`
